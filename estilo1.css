@@ -1,0 +1,37 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Nunito';
+}
+.info{
+    margin-left: 25%;
+    margin-bottom: 3%;
+    margin-top: 3%;
+}
+h1{
+    margin-bottom: 2%;
+}
+p{
+    font-size: 20px;
+    margin-bottom: 1%;
+}
+#C{
+    margin-top: 1%;
+}
+img{
+    height: 260px;
+    width: 200px;
+    position: absolute;
+    margin-left: 5%;
+    margin-top: 13%;
+    border-radius: 20px;
+}
+#title{
+    border-left: solid  steelblue;
+    padding-left: 1%;
+}
+#MTA{
+    margin-left: 30%;
+    margin-top: -10.5%;
+}

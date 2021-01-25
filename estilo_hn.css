@@ -1,0 +1,314 @@
+@import url('https://fonts.googleapis.com/css2?family=Varela+Round&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    scroll-behavior: smooth;
+}
+header{
+    max-width: 90%;
+    min-height: 30px;
+    margin: 0 auto 0px;
+    padding: 0;
+    margin-top: 1.5%;
+    margin-left: 20%;
+    position: absolute;
+    text-align: center;
+    font-size: 16px;
+}
+header li, a{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Varela Round', sans-serif;
+    padding: 6px 6px;
+    cursor: pointer;
+    text-decoration: none;
+    color: black;
+   
+}
+#this:hover{
+    color: #0b3b9b;
+    transition: 0.5s;
+   
+}
+#pic{
+    position:inherit;
+    width: 694px;
+    height: 494px;
+    margin-left: 2%;
+    margin-top: 7%;
+    border-radius: 30px;
+}
+#title{
+    position: absolute;
+    font-size: 50px;
+    margin-top: 18%;
+    margin-left: 28%;
+    color: white;
+    font-family: 'Varela Round', sans-serif;
+}
+#title span{
+    color: #0b3b9b;
+    
+}
+#frase{
+    font-family: 'Dancing Script', cursive;
+    font-size: 32px;
+    position: absolute;
+    margin-left: 57%;
+    margin-right: 8%;
+    margin-top: -18%;
+}
+#more{
+    position: absolute;
+    color: #0b3b9b;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
+    margin-top: 36%;
+    margin-left: 15%;
+    text-decoration: none;
+    border: #0b3b9b solid 1px;
+    padding: 10px;
+    cursor: pointer;
+}
+#back{
+    position: absolute;
+    color: #0b3b9b;
+    font-family: 'Varela Round', sans-serif;
+    font-size: 20px;
+    margin-top: 1.5%;
+    margin-left: -51%;
+    text-decoration: none;
+    border: #0b3b9b solid 1px;
+    padding: 10px;
+}
+
+#more:hover{
+    color: white;
+    background-color: #0b3b9b;
+    transition: 0.5s;
+}
+.info h1{
+    position: absolute;
+    font-family: 'Varela Round', sans-serif;
+    margin-top: 3%;
+    margin-left: 3%;
+    color: white;
+    padding: 10px;
+    background-color: #0b3b9b;
+    margin-bottom: 1%;
+    border-radius: 15px;
+}
+.sp1{
+    margin-top: 10%;
+    position: absolute;
+    margin-left: 3%;
+    text-align: justify;
+    margin-right: 10%;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 2%;
+}
+.sp1 h3{
+    margin-bottom: 2%;
+}
+.sp1 img{
+    height: 220px;
+    width: 230px;
+    margin-bottom: 2%;
+}
+.fa-circle-notch{
+    color: #0b3b9b;
+}
+
+.sp2{
+    margin-top: 53%;
+    position: absolute;
+    margin-left: 3%;
+    text-align: justify;
+    margin-right: 10%;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 2%;
+}
+.sp2 h3{
+    margin-bottom: 2%;
+}
+.sp2 img{
+    height: 220px;
+    width: 350px;
+    margin-bottom: 2%;
+}
+
+.sp3{
+    margin-top: 89%;
+    position: absolute;
+    margin-left: 3%;
+    text-align: justify;
+    margin-right: 10%;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 2%;
+}
+.sp3 h3{
+    margin-bottom: 2%;
+}
+
+.sp4{
+    margin-top: 108.5%;
+    position: absolute;
+    margin-left: 3%;
+    text-align: justify;
+    margin-right: 10%;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 2%;
+}
+.sp4 h3{
+    margin-bottom: 2%;
+}
+
+.sp5{
+    margin-top: 128%;
+    position: absolute;
+    margin-left: 3%;
+    text-align: justify;
+    margin-right: 10%;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 2%;
+}
+.sp5 img{
+    height: 320px;
+    width: 450px;
+    margin-bottom: 2%;
+}
+.sp5 h3{
+    margin-bottom: 2%;
+}
+
+.sp6{
+    margin-top: 165%;
+    position: absolute;
+    margin-left: 3%;
+    text-align: justify;
+    margin-right: 10%;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 2%;
+}
+.sp6 img{
+    height: 320px;
+    width: 250px;
+    margin-bottom: 2%;
+}
+.sp6 h3{
+    margin-bottom: 2%;
+}
+
+.sp7{
+    margin-top: 205%;
+    position: absolute;
+    margin-left: 3%;
+    text-align: justify;
+    margin-right: 10%;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 2%;
+}
+.sp7 img{
+    height: 320px;
+    width: 450px;
+    margin-bottom: 2%;
+}
+.sp7 h3{
+    margin-bottom: 2%;
+}
+
+.info2 h1{
+    position: absolute;
+    font-family: 'Varela Round', sans-serif;
+    margin-top: -5%;
+    margin-left: 0%;
+    color: white;
+    padding: 10px;
+    background-color: #0b3b9b;
+    margin-bottom: 1%;
+    border-radius: 15px;
+}
+
+.his{
+    margin-top: 250%;
+    position: absolute;
+    margin-left: 3%;
+    text-align: justify;
+    margin-right: 10%;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 2%;
+}
+.his h3{
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+.info3 h1{
+    position: absolute;
+    font-family: 'Varela Round', sans-serif;
+    margin-top: -20%;
+    margin-left: 0%;
+    color: white;
+    padding: 10px;
+    background-color: #0b3b9b;
+    margin-bottom: 1%;
+    border-radius: 15px;
+}
+.ext{
+    margin-top: 270%;
+    position: absolute;
+    margin-left: 3%;
+    text-align: justify;
+    margin-right: 10%;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 2%;
+}
+.ext img{
+    height: 320px;
+    width: 550px;
+    margin-bottom: 2%;
+}
+.ext h3{
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+.info4 h1{
+    position: absolute;
+    font-family: 'Varela Round', sans-serif;
+    margin-top: -8%;
+    margin-left: 0%;
+    color: white;
+    padding: 10px;
+    background-color: #0b3b9b;
+    margin-bottom: 1%;
+    border-radius: 15px;
+}
+.dep{
+    margin-top: 310%;
+    position: absolute;
+    margin-left: 3%;
+    text-align: justify;
+    margin-right: 10%;
+    font-family: 'Varela Round', sans-serif;
+    margin-bottom: 2%;
+}
+.dep h3{
+    margin-bottom: 2%;
+    margin-top: 2%;
+}
+
+footer{
+    position: absolute;
+    background-color: #E8E7E7;
+    font-family: 'Varela Round', sans-serif;
+    margin-top: 322%;
+    padding-left: 30%;
+    padding-right: 30%;
+    text-align: center;
+    padding-top: 1%;
+    margin-left: 3%;
+    padding-bottom: 1%;
+    
+}
