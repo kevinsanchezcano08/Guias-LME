@@ -1,0 +1,191 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Ubuntu', sans-serif;
+    scroll-behavior: smooth;
+}
+.fa-chevron-circle-down{
+    margin-left: 5px;
+}
+header{
+    max-width: 90%;
+    min-height: 30px;
+    margin: 0 auto 0px;
+    padding: 5px;
+    margin-top: 3%;
+    margin-left: 6%;
+    position: absolute;
+    text-align: center;
+    font-size: 16px;
+    background-color: #F19D00;
+    border-radius: 10px;
+}
+header li, a{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: 'Varela Round', sans-serif;
+    padding: 6px 6px;
+    cursor: pointer;
+    text-decoration: none;
+    color: white;
+}
+.head h1{
+    position: absolute;
+    color: #F19D00;
+    font-size: 50px;
+    margin-top: 20%;
+    margin-left: 45%;
+}
+.head h3{
+    position: absolute;
+    margin-top: 25%;
+    margin-left: 45%;
+}
+.head a{
+    position: absolute;
+    color: #F19D00;
+    margin-top: 33%;
+    margin-left: 45%;
+    border: 1px #F19D00 solid;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.head img{
+    position: absolute;
+    margin-left: 2%;
+    margin-top: 13%;
+    height: 400px;
+    width: 580px;
+}
+.rest{
+    margin-top: 48%;
+    position: absolute;
+    padding-bottom: 47%;
+    padding-right: 100%;
+    background-color: #F19D00;
+    
+}
+.rest h1{
+    margin-left:8%;
+    position: absolute;
+    margin-top: 10%;
+    color:#F19D00;
+    padding: 5px;
+    background-color: white;
+}
+.rest p{
+    position: absolute;
+    color: white;
+    margin-top: 14%;
+    margin-left: 8%;
+    margin-right: 50%;
+    text-align: justify;
+}
+.rest img{
+    position: absolute;
+    height: 400px;
+    width: 300px;
+    margin-top: 8%;
+    margin-left: 60%;
+    border-radius: 15px;
+}
+.rest a{
+    position: absolute;
+    color: white;
+    margin-top: 38%;
+    margin-left: 23%;
+    border: 1px white solid;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.Nac{
+    margin-top: 90%;
+    position: absolute;
+    padding-bottom: 47%;
+    padding-right: 100%;
+    
+}
+.Nac h1{
+    margin-left:50%;
+    position: absolute;
+    margin-top: 20%;
+    color:white;
+    padding: 5px;
+    background-color: #F19D00;
+}
+.Nac p{
+    position: absolute;
+    color: black;
+    margin-top: 25%;
+    margin-left: 50%;
+    margin-right: 15%;
+    text-align: justify;
+}
+.Nac img{
+    position: absolute;
+    height: 300px;
+    width: 500px;
+    margin-top: 15%;
+    margin-left: 8%;
+    border-radius: 15px;
+}
+.Nac a{
+    position: absolute;
+    color: #F19D00;
+    margin-top: 30%;
+    margin-left: 50%;
+    border: 1px #F19D00 solid;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 20px;
+}
+.Nac span{
+    color: #F19D00;
+}
+
+.Fam{
+    margin-top: 136%;
+    position: absolute;
+    padding-bottom: 47%;
+    padding-right: 100%;
+    
+}
+.Fam h1{
+    margin-left:35%;
+    position: absolute;
+    margin-top: 2%;
+    color:white;
+    padding: 5px;
+    background-color: #F19D00;
+}
+.Fam p{
+    position: absolute;
+    color: black;
+    margin-top: 28%;
+    margin-left: 25%;
+    margin-right: 30%;
+    margin-bottom: 3%;
+    text-align: justify;
+}
+.Fam img{
+    position: absolute;
+    height: 300px;
+    width: 500px;
+    margin-top: 5%;
+    margin-left: 28%;
+    border-radius: 15px;
+}
+footer{
+    position: absolute;
+    background-color: #F19D00;
+    color: white;
+    padding: 10px;
+    margin-left: 30%;
+    margin-top: 190%;
+}
+
